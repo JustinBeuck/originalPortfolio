@@ -162,6 +162,11 @@ section#about {
   color: white;
 }
 
+h3.section-subheading {
+  color:white;
+  font-family: sans-serif;
+}
+
 
 .btnBlueGreen.btnPush {
   box-shadow: 0px 5px 0px 0px #6d0600;
