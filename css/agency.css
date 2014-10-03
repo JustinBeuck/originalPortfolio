@@ -466,6 +466,8 @@ section h3.section-subheading {
     width: 100%;
     padding: 0 20px 0 100px;
     text-align: left;
+    background: rgba(0,0,0, .4);
+    border-radius: 5px;
 }
 
 .timeline>li .timeline-panel:before {
@@ -538,6 +540,7 @@ section h3.section-subheading {
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+    color: white;
 }
 
 @media(min-width:768px) {

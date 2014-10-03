@@ -11,7 +11,7 @@
     font-size: 20px;
 }
 
-body {
+body#quiz {
   background: url('../img/ferrari.jpeg') no-repeat; 
   background-size: cover; 
 }
@@ -151,6 +151,15 @@ button {
   transition: all 0.2s ;
   background-color: #c90b00;
   border-color: red;
+}
+
+section#about {
+  background-image: url('http://johnrrogers.com/nwp/wp-content/uploads/2012/12/12_AustinSkylineSunset.jpg') ;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  background-size:cover;
+  color: white;
 }
 
 
