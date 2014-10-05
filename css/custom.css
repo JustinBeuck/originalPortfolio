@@ -159,7 +159,7 @@ section#about {
   background-position: center center;
   width: 100%;
   background-size:cover;
-  color: white;
+  opacity: 0.5;
 }
 
 h3.section-subheading {
