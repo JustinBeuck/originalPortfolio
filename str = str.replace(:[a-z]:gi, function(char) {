@@ -1,0 +1,4 @@
+str = str.replace(/[a-z]/gi, function(word) {
+  if (/[aeiuo]/.test(word)) word = word.toUpperCase();
+  return word;
+});
