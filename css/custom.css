@@ -154,7 +154,7 @@ button {
 }
 
 section#about {
-  background-image: url('http://johnrrogers.com/nwp/wp-content/uploads/2012/12/12_AustinSkylineSunset.jpg') ;
+  background-image: url('/img/skyline.jpg') ;
   background-repeat: no-repeat;
   background-position: center center;
   width: 100%;
